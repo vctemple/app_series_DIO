@@ -1,0 +1,16 @@
+C:\Users\Samsung\Workspace-git\DIO\App_series\bin\Debug\net5.0\App_series.exe
+C:\Users\Samsung\Workspace-git\DIO\App_series\bin\Debug\net5.0\App_series.deps.json
+C:\Users\Samsung\Workspace-git\DIO\App_series\bin\Debug\net5.0\App_series.runtimeconfig.json
+C:\Users\Samsung\Workspace-git\DIO\App_series\bin\Debug\net5.0\App_series.runtimeconfig.dev.json
+C:\Users\Samsung\Workspace-git\DIO\App_series\bin\Debug\net5.0\App_series.dll
+C:\Users\Samsung\Workspace-git\DIO\App_series\bin\Debug\net5.0\ref\App_series.dll
+C:\Users\Samsung\Workspace-git\DIO\App_series\bin\Debug\net5.0\App_series.pdb
+C:\Users\Samsung\Workspace-git\DIO\App_series\obj\Debug\net5.0\App_series.csproj.AssemblyReference.cache
+C:\Users\Samsung\Workspace-git\DIO\App_series\obj\Debug\net5.0\App_series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Workspace-git\DIO\App_series\obj\Debug\net5.0\App_series.AssemblyInfoInputs.cache
+C:\Users\Samsung\Workspace-git\DIO\App_series\obj\Debug\net5.0\App_series.AssemblyInfo.cs
+C:\Users\Samsung\Workspace-git\DIO\App_series\obj\Debug\net5.0\App_series.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Workspace-git\DIO\App_series\obj\Debug\net5.0\App_series.dll
+C:\Users\Samsung\Workspace-git\DIO\App_series\obj\Debug\net5.0\ref\App_series.dll
+C:\Users\Samsung\Workspace-git\DIO\App_series\obj\Debug\net5.0\App_series.pdb
+C:\Users\Samsung\Workspace-git\DIO\App_series\obj\Debug\net5.0\App_series.genruntimeconfig.cache
